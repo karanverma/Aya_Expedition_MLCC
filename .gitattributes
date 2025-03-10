@@ -1,0 +1,4 @@
+doc_dense_embeddings.pkl filter=lfs diff=lfs merge=lfs -text
+*.yourfiletype filter=lfs diff=lfs merge=lfs -text
+large_files/* filter=lfs diff=lfs merge=lfs -text
+large_files/*Aya_Expedition_MLCC filter=lfs diff=lfs merge=lfs -text
